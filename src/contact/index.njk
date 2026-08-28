@@ -1,0 +1,25 @@
+---
+layout: base.njk
+title: Contact
+permalink: /contact/
+---
+<form action="https://formsubmit.co/alexmcclanahan94@gmail.com" method="POST">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_subject" value="Website contact">
+  <input type="hidden" name="_next" value="https://alexmcclanahan.github.io/sent/">
+  <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off">
+
+  <label>
+    Name
+    <input type="text" name="name" autocomplete="name" required>
+  </label>
+  <label>
+    Email
+    <input type="email" name="email" autocomplete="email" required>
+  </label>
+  <label>
+    Message
+    <textarea name="message" required></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>

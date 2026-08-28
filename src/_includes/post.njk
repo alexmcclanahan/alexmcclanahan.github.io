@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+<article>
+  <h1>{{ title }}</h1>
+  {% if page.date %}
+  <p class="date">{{ page.date | postDate }}</p>
+  {% endif %}
+  {{ content | safe }}
+</article>
