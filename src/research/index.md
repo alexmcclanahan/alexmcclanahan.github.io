@@ -21,4 +21,4 @@ Neurointervention, image-guided procedures, and endovascular brain-computer inte
 
 2026 Howard J. Barnhard, M.D. Radiology Resident Research Endowment Seed Grant: Automated Image Guidance for Endovascular Brain-Computer Interface Placement.
 
-[Google Scholar](https://scholar.google.com/citations?user=x8y8NmsAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=50oXGksAAAAJ&hl=en)
