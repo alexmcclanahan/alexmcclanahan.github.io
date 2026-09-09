@@ -2,10 +2,10 @@
 layout: base.njk
 permalink: /
 ---
-Originally from Orlando, Florida.
+I grew up in Orlando, Florida.
 
-**Florida Southern College.** At Florida Southern College, a B.S. in Biochemistry and Molecular Biology came with a minor in mathematics, and a place on the [men’s basketball team that won the 2015 NCAA Division II national championship](https://fscmocs.com/news/2015/3/28/3_28_2015_1771.aspx).
+I earned a B.S. in Biochemistry and Molecular Biology with a minor in mathematics at Florida Southern College. In 2015 I was on the [men’s basketball team that won the NCAA Division II national championship](https://fscmocs.com/news/2015/3/28/3_28_2015_1771.aspx).
 
-**University of Central Florida.** The M.D. and M.S. in Biomedical Sciences followed at the University of Central Florida. Time in Brian Kim’s bioelectronics laboratory centered on in vivo electrophysiology and deep learning for neural decoding—an early turn toward interfaces between imaging, devices, and the brain.
+I completed an M.D. and an M.S. in Biomedical Sciences at the University of Central Florida. In Brian Kim’s bioelectronics lab I worked on in vivo electrophysiology and deep learning for neural decoding, which pointed me toward interfaces between imaging, devices, and the brain.
 
-**Residency and beyond.** Diagnostic radiology residency at the University of Arkansas for Medical Sciences is on the Early Specialization in Interventional Radiology pathway, with service as chief resident. Matched into independent interventional radiology at the University of Florida and applying to neurointerventional radiology. Research focuses on endovascular brain–computer interfaces and imaging for device planning and targeting, with a longer interest in how catheter-based neurotechnology can serve clinical neuroscience.
+I am a diagnostic radiology resident at the University of Arkansas for Medical Sciences on the Early Specialization in Interventional Radiology pathway and serve as chief resident. I matched into independent interventional radiology at the University of Florida and am applying to neurointerventional radiology. My research focuses on endovascular brain–computer interfaces and imaging for device planning and targeting. I care about how catheter-based neurotechnology can serve clinical neuroscience.
