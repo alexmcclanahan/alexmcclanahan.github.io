@@ -2,14 +2,10 @@
 layout: base.njk
 permalink: /
 ---
-## Florida Southern College
+Alex McClanahan is originally from Orlando, Florida.
 
-Originally from Orlando, Florida, Alex McClanahan earned a B.S. in Biochemistry and Molecular Biology at Florida Southern College, with a minor in mathematics. In 2015 he was a member of the [Florida Southern men's basketball team that won the NCAA Division II national championship](https://fscmocs.com/news/2015/3/28/3_28_2015_1771.aspx).
+**Florida Southern College.** He earned a B.S. in Biochemistry and Molecular Biology with a minor in mathematics at Florida Southern College. While there, he played on the [men’s basketball team that won the 2015 NCAA Division II national championship](https://fscmocs.com/news/2015/3/28/3_28_2015_1771.aspx).
 
-## University of Central Florida
+**University of Central Florida.** He completed an M.D. and an M.S. in Biomedical Sciences at the University of Central Florida. In Brian Kim’s bioelectronics laboratory, his work centered on in vivo electrophysiology and deep learning for neural decoding—an early turn toward interfaces between imaging, devices, and the brain.
 
-He then completed an M.D./M.S. at the University of Central Florida, working in Brian Kim's bioelectronics lab on in vivo electrophysiology and deep learning for neural decoding.
-
-## Residency and beyond
-
-He is a diagnostic radiology resident at the University of Arkansas for Medical Sciences (UAMS) on the Early Specialization in Interventional Radiology (ESIR) pathway and serves as chief resident. Next he will complete an independent interventional radiology fellowship at the University of Florida, and he is applying to neurointerventional radiology. Alongside that training, he works on endovascular brain–computer interfaces (BCIs), including image-guided targeting for device placement. Neurointerventional radiology and endovascular BCI research are the direction he intends to follow, for what they may offer clinical neuroscience and psychology.
+**Residency and beyond.** He is a diagnostic radiology resident at the University of Arkansas for Medical Sciences on the Early Specialization in Interventional Radiology pathway and serves as chief resident. He matched into independent interventional radiology at the University of Florida and is applying to neurointerventional radiology. His research focuses on endovascular brain–computer interfaces and imaging for device planning and targeting, with a longer interest in how catheter-based neurotechnology can serve clinical neuroscience.
