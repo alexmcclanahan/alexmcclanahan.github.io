@@ -3,7 +3,7 @@ layout: base.njk
 title: Research
 permalink: /research/
 ---
-Neurointervention, image-guided procedures, and endovascular brain-computer interfaces.
+Interventional radiology, neuroimaging, and endovascular brain-computer interfaces.
 
 ## Papers
 
